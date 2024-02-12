@@ -1,1 +1,21 @@
+Jenkins
 
+CI pipeline:Continous Integration 
+
+command to install and setup jenkins with java
+
+sudo apt update -y:
+sudo apt install openjdk-17-jre -y
+
+apt:advance packaging tool
+updte:to update
+y:yes
+
+CURL:hit the url and get the data 
+
+curl -v ww.google.com 
+-v:to check logs 
+
+sudo tee:to cut the data 
+
+:Q!:Quits
