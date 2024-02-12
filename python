@@ -21,6 +21,14 @@ numpy,mathplotlib and pandas
 
 https://www.online-python.com  :online editor
 
+print:built in function 
+we can also pass single or multiple parameters in print
+
+Normal parameters
+keyword parameters
+
+variables are case sensitive in python
+
 
 
 
