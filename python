@@ -1,1 +1,31 @@
+Created by Guido van Russom released in 1991
+
+Intepreted programming language:executes line by line 
+linking file with one other file is converting into bits
+It has scripting feature 
+we can directly define code 
+no prerequisite
+it is procedural oriened language
+
+For every version the syntax is different and it is not supportive 
+
+python3
+
+check in cmd python -V:to check python version
+
+python -m pip package-name :command to install external packages in python 
+
+libraries in python 
+
+numpy,mathplotlib and pandas
+
+https://www.online-python.com  :online editor
+
+
+
+
+
+
+
+
 
