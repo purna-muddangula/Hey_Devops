@@ -29,6 +29,23 @@ keyword parameters
 
 variables are case sensitive in python
 
+Control flow statements
+
+ladder elif statement
+
+if
+elif
+else
+
+Ternary operator
+
+Looping statements
+
+for loop with range() function
+
+in python array is called as list
+l1=[1,2,3,4,5]
+
 
 
 
